@@ -9,7 +9,7 @@ I believe that building a software is like an art , therefore , we should always
 - 💻 You can check my portfolio at [this website](https://encurtador.com.br/zGHX1).
 - 🚀 Currently building solutions for companies at [VersianiWorks](https://versianiworks.com/).
 - 📫 You can contact-me at [versianidev@outlook.com](mailto:versianidev@outlook.com).
-- 🤓 The technologies that I know are: PHP, Laravel, Livewire, .NET, NodeJS, NestJS, React, Docker.
+- 🤓 The technologies that I know are: PHP, Laravel, Livewire, .NET, NodeJS, NestJS, Docker.
 - 🤝🏽 I'm open to collaborating on open source projects.
 <!--
 **Deathpk/Deathpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
