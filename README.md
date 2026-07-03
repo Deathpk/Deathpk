@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Michel Versiani AKA Versiani and I'm a Software Developer
-27 years old , graduated in Systems Analysis and Development at Estácio De Sá University, 4 years of experience building software, specialized in Backend.
+29 years old , graduated in Systems Analysis and Development at Estácio De Sá University, 6 years of experience building software, specialized in Backend.
 
 Most part of my experience as a developer consists on creating REST APIS , cron jobs and API integrations using languages and tools such as PHP, NodeJS, Laravel, always striving to apply best practices from software development into each project.
 
