@@ -5,7 +5,7 @@ Most part of my experience as a developer consists on creating REST APIS , cron 
 
 I believe that building a software is like an art , therefore , we should always look foward to make the code as clean and reliable as possible and always sticking with the right architectural patterns for each application. I believe that as a blacksmith forges his best blade , not only to cut , but to look amazingly done aswell , we need to build software , bringing value to the current company that we 're working on 🤓.
 
-- 🌎 Based in Belo Horizonte, Brazil.
+- 🌎 Based in Contagem - MG, Brazil.
 - 💻 You can check my portfolio at [this website](https://encurtador.com.br/zGHX1).
 - 🚀 Currently building solutions for roadside assistances at [Infornet Soluções](https://www.infornet.com.br/)
 - 📫 You can contact-me at [versianidev@outlook.com](mailto:versianidev@outlook.com).
